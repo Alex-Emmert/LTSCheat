@@ -2,7 +2,7 @@
 #June 29, 2023
 #Cheat at the game "License To Spell" by SeattlePhysicsTeacher (https://www.seattlephysicstutor.com/plates.html)
 
-with open("CSW21.txt", "r") as file:
+with open("YOUR_DICTIONARY_FILE.txt", "r") as file:
     wordList = file.read().splitlines()
 
 while True:
